@@ -1,4 +1,5 @@
 # Basic TCG reader
-Demo Video: 
 
-![](demoVid/zoomed.webm)
+**Demo Video:** 
+
+![text](demoVid/zoomed.webm)
