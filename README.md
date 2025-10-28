@@ -2,4 +2,4 @@
 
 **Demo Video:** 
 
-![text](demoVid/zoomed.webm)
+![text](demoVid/zoomed.mp4)
